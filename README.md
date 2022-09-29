@@ -1,1 +1,2 @@
-# Class-18-Trex-Finale
+# PROC18-V3ColorfullTrex
+Colorful Trex
